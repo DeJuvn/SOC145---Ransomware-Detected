@@ -2,6 +2,7 @@
 
 
 <h2>Monitoring</h2>
+
 - <b>Details:</b>
 <br />
 
