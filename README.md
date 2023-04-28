@@ -2,7 +2,7 @@
 
 
 <h2>Monitoring</h2>
-Details:
+- <b>Details:</b>
 <br />
 
 ![image](https://user-images.githubusercontent.com/131769679/235164879-e4299b09-cfd2-4872-84c7-5ad0d9609da7.png)
